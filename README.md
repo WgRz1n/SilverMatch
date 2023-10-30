@@ -1,7 +1,7 @@
 # SilverMatch
 SilverMatch-UPX3
 
-Esse código é um programa de chat em Java que consiste em um cliente e um servidor para permitir a comunicação entre vários usuários em um chat. Vou explicar o código por partes:
+Esse código é um programa de chat em Java que consiste em um cliente e um servidor para permitir a comunicação entre vários usuários em um chat. Vou explicar o código desenvolvido para a materia de UPX 3 por partes:
 
 ChatClient.java:
 
