@@ -15,6 +15,7 @@ Listener.java:
 
 Esta é uma classe interna que implementa a interface ActionListener para lidar com eventos de ação, como pressionar o botão "Enviar" ou pressionar "Enter" no campo de texto.
 Quando um evento ocorre, ele pega o texto do campo de entrada (chatNovaMensagem), envia para o servidor e limpa o campo de entrada para que o usuário possa digitar uma nova mensagem.
+
 ChatServer.java:
 
 Importa as classes e bibliotecas necessárias para o servidor Java.
